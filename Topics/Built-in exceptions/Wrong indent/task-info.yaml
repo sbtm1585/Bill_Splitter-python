@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: <code>NameError</code>
+  - text: <code>TabError</code>
+  - text: <code>RuntimeError</code>
+  - text: <code>IndentationError</code>
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/17475#comment
+status: Solved
+record: -1
+local_check: false

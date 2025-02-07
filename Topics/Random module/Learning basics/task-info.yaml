@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: isn't used for a mathematical purpose.
+  - text: generates real random sequences.
+  - text: implements pseudo-random number generators.
+  - text: isn't built-in and should be downloaded.
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6266#comment
+status: Solved
+record: -1
+local_check: false
